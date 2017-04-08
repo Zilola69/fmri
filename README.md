@@ -5,8 +5,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>fmri</title>
-    
-    <link href="/fmri/assets/css/style.css?v=b17e44f34d01db74c0d32322381a9c10a02fe685" rel="stylesheet">
   </head>
   
   <body>
