@@ -7,7 +7,7 @@
     <title>fmri</title>
   </head>
   
-  <body>
+  <body background="#d3f8d3">
     <div class="container markdown-body">
       <h1 id="fmri">FMRI</h1>
 
@@ -79,6 +79,12 @@
 <th>Deprecated HTML Tags</th>
 <td>this webpage should have HTML deprecated tags.</td>
 <td>this webpage does not use HTML deprecated tags.</td>
+</tr>
+
+<tr>
+<th>WWW redirection Test/th>
+<td>This website directs www.fmri.in and fmri.in to the same URL.</td>
+<td>A redirect is in place to redirect traffic from your non-preferred domain.</td>
 </tr>
 
 <tr>
