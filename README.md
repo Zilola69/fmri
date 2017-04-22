@@ -108,13 +108,12 @@
 </tr>
 
 </tbody></table>
-
-
+<p> <p>
 <table>
 <tbody>
 
 <tr>
-<th colspan="3"><marquee direction="right">FMRI</marquee></th>
+<th colspan="3"><marquee direction="right">Domain Age Checker</marquee></th>
 </tr>
 
 <tr>
