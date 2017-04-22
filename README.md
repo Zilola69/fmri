@@ -109,7 +109,11 @@
 </tr>
 
 </tbody></table>
+
 <p> <p>
+
+<img src="http://medicaldialogues.in/wp-content/uploads/2015/12/FMRI.jpg">
+
 <table>
 <tbody>
 
