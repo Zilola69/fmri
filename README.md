@@ -12,7 +12,7 @@
       <h1 id="fmri">FMRI</h1>
 
 
-<center> <img src="http://cdn.fortishealthcare.com/0.13666800_1457958401_fmri_fortis.jpg"> </center>
+<img src="http://cdn.fortishealthcare.com/0.13666800_1457958401_fmri_fortis.jpg">
 
 
 <table>
@@ -105,6 +105,16 @@
 <th>Nofollow Tag Checker</th>
 <td>this means that search engins will crawl all links from your webpage.</td>
 <td>this webpage does not use the nofollow meta tag.</td>
+</tr>
+
+</tbody></table>
+
+
+<table>
+<tbody>
+
+<tr>
+<th colspan="3"><marquee direction="right">FMRI</marquee></th>
 </tr>
 
 <tr>
