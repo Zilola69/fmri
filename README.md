@@ -7,12 +7,15 @@
     <title>fmri</title>
   </head>
   
-  <body background="#d3f8d3">
+  <body>
     <div class="container markdown-body">
       <h1 id="fmri">FMRI</h1>
 
 
-<img src="http://cdn.fortishealthcare.com/0.13666800_1457958401_fmri_fortis.jpg"><table>
+<center> <img src="http://cdn.fortishealthcare.com/0.13666800_1457958401_fmri_fortis.jpg"> </center>
+
+
+<table>
 
 <tbody><tr>
 <th colspan="3"><marquee direction="right">FMRI</marquee></th>
