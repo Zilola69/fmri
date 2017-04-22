@@ -18,7 +18,7 @@
 <table>
 
 <tbody><tr>
-<th colspan="3"><marquee direction="right">FMRI</marquee></th>
+<th colspan="3"><marquee direction="right">Fortis Memorial Research Institute</marquee></th>
 </tr>
 
 <tr>
