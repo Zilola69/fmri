@@ -85,6 +85,13 @@
 <td colspan="2">This site use a "robots.txt" file: http://fmri.in/robots.txtt</td>
 </tr>
 
+<tr>
+<th>Deprecated HTML Tags</th>
+<td>this webpage should have HTML deprecated tags.</td>
+<td>this webpage does not use HTML deprecated tags.</td>
+</tr>
+
+
 </tbody></table>
     </div>
 </body></html>
