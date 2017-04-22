@@ -85,7 +85,7 @@
 </tr>
 
 <tr>
-<th>WWW redirection Test/th>
+<th>WWW redirection Test</th>
 <td>This website directs www.fmri.in and fmri.in to the same URL.</td>
 <td>A redirect is in place to redirect traffic from your non-preferred domain.</td>
 </tr>
@@ -117,8 +117,15 @@
 </tr>
 
 <tr>
-<th>expiration</th>
-<td colspan="2">3 Years, 11 Months</td>
+<th>Domain Created on :</th>
+<th>Age</th>
+<th>Domain Updated on :</th>
+</tr>
+
+<tr>
+<th>11 May, 2013</th>
+<td>3 Years, 11 Months</td>
+<td>27 October, 2016</td>
 </tr>
 
 </tbody></table>
