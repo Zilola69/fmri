@@ -71,16 +71,6 @@
 </tr>
 
 <tr>
-<th>expiration</th>
-<td colspan="2">3 Years, 11 Months</td>
-</tr>
-
-<tr>
-<th>Google Search Results Preview</th>
-<td colspan="2">https://www.fmri.in/</td>
-</tr>
-
-<tr>
 <th>Sitemap Test</th>
 <td colspan="2">This site use a "robots.txt" file: http://fmri.in/robots.txtt</td>
 </tr>
@@ -91,6 +81,27 @@
 <td>this webpage does not use HTML deprecated tags.</td>
 </tr>
 
+<tr>
+<th>Google search results preview</th>
+<td colspan="2">https://www.fmri.in/</td>
+</tr>
+
+<tr>
+<th>Noindex Tag Checker</th>
+<td>this means that your webpage will be read and indexed by search engines.</td>
+<td>this webpage does not use the noindex meta tag.</td>
+</tr>
+
+<tr>
+<th>Nofollow Tag Checker</th>
+<td>this means that search engins will crawl all links from your webpage.</td>
+<td>this webpage does not use the nofollow meta tag.</td>
+</tr>
+
+<tr>
+<th>expiration</th>
+<td colspan="2">3 Years, 11 Months</td>
+</tr>
 
 </tbody></table>
     </div>
