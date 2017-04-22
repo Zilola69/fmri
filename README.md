@@ -75,6 +75,16 @@
 <td colspan="2">3 Years, 11 Months</td>
 </tr>
 
+<tr>
+<th>Google Search Results Preview</th>
+<td colspan="2">https://www.fmri.in/</td>
+</tr>
+
+<tr>
+<th>Sitemap Test</th>
+<td colspan="2">This site use a "robots.txt" file: http://fmri.in/robots.txtt</td>
+</tr>
+
 </tbody></table>
     </div>
 </body></html>
