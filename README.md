@@ -75,11 +75,6 @@
 </tr>
 
 <tr>
-<th>Sitemap Test</th>
-<td colspan="2">This site use a "robots.txt" file: http://fmri.in/robots.txtt</td>
-</tr>
-
-<tr>
 <th>Deprecated HTML Tags</th>
 <td>this webpage should have HTML deprecated tags.</td>
 <td>this webpage does not use HTML deprecated tags.</td>
@@ -92,11 +87,6 @@
 </tr>
 
 <tr>
-<th>Google search results preview</th>
-<td colspan="2">https://www.fmri.in/</td>
-</tr>
-
-<tr>
 <th>Noindex Tag Checker</th>
 <td>this means that your webpage will be read and indexed by search engines.</td>
 <td>this webpage does not use the noindex meta tag.</td>
@@ -106,6 +96,16 @@
 <th>Nofollow Tag Checker</th>
 <td>this means that search engins will crawl all links from your webpage.</td>
 <td>this webpage does not use the nofollow meta tag.</td>
+</tr>
+
+<tr>
+<th>Sitemap Test</th>
+<td colspan="2">This site use a "robots.txt" file: http://fmri.in/robots.txtt</td>
+</tr>
+
+<tr>
+<th>Google search results preview</th>
+<td colspan="2">https://www.fmri.in/</td>
 </tr>
 
 </tbody></table>
