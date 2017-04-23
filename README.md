@@ -114,6 +114,30 @@
 
 <img src="http://medicaldialogues.in/wp-content/uploads/2015/12/FMRI.jpg">
 
+
+<table>
+<tbody>
+
+<tr>
+<th colspan="3"><marquee direction="right">MozRank Checker</marquee></th>
+</tr>
+
+<tr>
+<th>URL:</th>
+<th>Domain Authority(Max = 100)</th>
+<th>Moz Rank:</th>
+</tr>
+
+<tr>
+<th>https://www.fmri.in/</th>
+<td>27.52</td>
+<td>NIL</td>
+</tr>
+
+</tbody>
+</table>
+
+
 <table>
 <tbody>
 
